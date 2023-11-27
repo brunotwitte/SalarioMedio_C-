@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalarioMEdio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7341561d7dee84a45511921da8672f074bc12d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalarioMEdio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalarioMEdio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

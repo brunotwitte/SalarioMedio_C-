@@ -15,16 +15,16 @@ namespace MyNamespace {
 
             Console.WriteLine("Digite o nome  Primeiro Funcionario: ");
             f1.Nome = (Console.ReadLine());
-            Console.WriteLine("Digite o Salario do Primeiro Funcionario:");
+            Console.WriteLine("Digite o Salario do Primeiro Funcionario: ");
             f1.Salario = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             Console.WriteLine("\n--------------------------\n");
             Console.WriteLine("Digite o nome  Segundo  Funcionario: ");
             f2.Nome = (Console.ReadLine());
-            Console.WriteLine("Digite o Salario do Segundo  Funcionario:");
+            Console.WriteLine("Digite o Salario do Segundo  Funcionario: ");
             f2.Salario = double.Parse (Console.ReadLine(),CultureInfo.InvariantCulture);
 
             double media = (f1.Salario + f2.Salario) / 2;
-            Console.WriteLine("A media Salaria dos dois Funcionarios é: " + media.ToString("F3",CultureInfo.InvariantCulture));
+            Console.WriteLine(" A media Salaria dos dois Funcionarios é: " + media.ToString("F3",CultureInfo.InvariantCulture));
 
 
         }

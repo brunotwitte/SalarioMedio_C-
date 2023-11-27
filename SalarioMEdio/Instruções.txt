@@ -1,0 +1,3 @@
+Programa que calcula salario de duas pessoas
+e verifica o valor medio dos dois salarios das pessoas 
+concatenado com o nome do Funcionario.

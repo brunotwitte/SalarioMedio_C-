@@ -12,3 +12,4 @@ C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\refint\Sal
 C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.pdb
 C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.genruntimeconfig.cache
 C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\ref\SalarioMEdio.dll
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.sourcelink.json
