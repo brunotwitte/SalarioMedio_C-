@@ -1,0 +1,14 @@
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.AssemblyInfoInputs.cache
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.AssemblyInfo.cs
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.csproj.CoreCompileInputs.cache
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\bin\Debug\net8.0\SalarioMEdio.exe
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\bin\Debug\net8.0\SalarioMEdio.deps.json
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\bin\Debug\net8.0\SalarioMEdio.runtimeconfig.json
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\bin\Debug\net8.0\SalarioMEdio.dll
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\bin\Debug\net8.0\SalarioMEdio.pdb
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.dll
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\refint\SalarioMEdio.dll
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.pdb
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\SalarioMEdio.genruntimeconfig.cache
+C:\Users\casa\source\repos\SalarioMEdio\SalarioMEdio\obj\Debug\net8.0\ref\SalarioMEdio.dll
